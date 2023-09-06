@@ -20,6 +20,8 @@ I love (and do) a lot of things, and work with some of these:
     - DevOps / APIs development
     - IoT / Embedded systems
     - Blockchain
+  - Frontend developer
+    - Nextjs 13 / React
   - C# developer
     - Unity / .NET / WPF
 
