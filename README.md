@@ -24,6 +24,8 @@ I love (and do) a lot of things, and work with some of these:
     - Nextjs 13 / React
   - C# developer
     - Unity / .NET / WPF
+  - Java & Flutter Developer
+    - Apps for POS devices (Spectra Apollo & S1)
 
 ### I have worked / volunteered for:
 - [**Iglesia Centro Cristiano**](https://www.centrocristiano.com.co) (2015 - 2023, volunteer)
