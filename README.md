@@ -80,3 +80,4 @@ I love (and do) a lot of things, and work with some of these:
     - Build a marketing mailing service using Amazon SES to send out +2500 weekly mailings (saving +$100 per month compared to other services). 
     -->
   - Establish and enforce copyright policies for content managed by the organization, using YouTube's Copyright Match Tool and Facebook's Rights Manager, as well as specific forms on websites to submit DMCA complaints.
+- [**Iglesia Casa de mi Señor**](https://casademisenor.com) (2024, volunteer)
