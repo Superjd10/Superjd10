@@ -22,9 +22,9 @@ I love (and do) a lot of things, and work with some of these:
     - Blockchain
   - Frontend developer
     - Nextjs 13 / React
-  - C# developer
+  - C# developer ([Vakano Pay](https://github.com/VakanoPay))
     - Unity / .NET / WPF
-  - Java & Flutter Developer
+  - Java & Flutter Developer ([Vakano Pay](https://github.com/VakanoPay))
     - Apps for POS devices (Spectra Apollo & S1)
 
 ### I have worked / volunteered for:
