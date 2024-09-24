@@ -15,6 +15,9 @@ I love (and do) a lot of things, and work with some of these:
 
 
 ### I'm currently working for:
+- [Outlier](https://outlier.ai)
+
+### I have worked / volunteered for:
 - [**Vakano Studio 🐼**](https://vakano.studio)
   - Backend developer
     - DevOps / APIs development
@@ -27,7 +30,6 @@ I love (and do) a lot of things, and work with some of these:
   - Java & Flutter Developer ([Vakano Pay](https://github.com/VakanoPay))
     - Apps for POS devices (Spectra Apollo & S1)
 
-### I have worked / volunteered for:
 - [**Iglesia Centro Cristiano**](https://www.centrocristiano.com.co) (2015 - 2023, volunteer)
   - Developer
   <!---
