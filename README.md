@@ -15,9 +15,13 @@ I love (and do) a lot of things, and work with some of these:
 
 
 ### I'm currently working for:
-- [Outlier](https://outlier.ai)
+- [micro1](https://micro1.ai) - You can find my work account [here](https://github.com/jose-micro1)
+  - I am working as a Member of Technical Staff doing 🤫🤫🤫
 
 ### I have worked / volunteered for:
+- [Outlier](https://outlier.ai) / [Scale AI](https://scale.com)
+  - LATAM AI Trainer / QA (Coding)
+  - QC Specialist (Coding)
 - [**Vakano Studio 🐼**](https://vakano.studio)
   - Backend developer
     - DevOps / APIs development
